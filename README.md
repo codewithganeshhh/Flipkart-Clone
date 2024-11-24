@@ -51,12 +51,12 @@
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
-<h4 align='center'>Developed By <b><i>Anagha Chaudhari</i></b></h4>
+<h4 align='center'>Developed By <b><i>Ganesh Kumar</i></b></h4>
 <p align='center'>
-  <a href='https://linkedin.com/in/anagha-chaudhari'>
+  <a href='https://www.linkedin.com/in/ganesh-kumar-816544282/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
-  <a href='https://github.com/anagha-chaudhari'>
+  <a href='https://github.com/codewithganeeshhh'>
     <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' />
   </a>
 </p>
